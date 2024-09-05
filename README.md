@@ -1,12 +1,11 @@
-
-
+## Hi there 👋
+I'm a web developer
 ## Languages and tools
-<a target="_blank">
-<img src="https://github.com/Rakhmonberdiev/Rakhmonberdiev/blob/main/assets/csharp.png" alt="csharp" height="72"/>
-</a>
-<a target="_blank">
-<img src="https://github.com/Rakhmonberdiev/Rakhmonberdiev/blob/main/assets/typescript.png" alt="typescript" height="72"/>
-</a>
+
+<div style="display: flex;">
+<img src="https://github.com/Rakhmonberdiev/Rakhmonberdiev/blob/main/assets/csharp.png" alt="csharp" height="72"/><img src="https://github.com/Rakhmonberdiev/Rakhmonberdiev/blob/main/assets/dotnet.png" alt="dotnet" height="72"/><img src="https://github.com/Rakhmonberdiev/Rakhmonberdiev/blob/main/assets/postgre.png" alt="postgre" height="72"/><img src="https://github.com/Rakhmonberdiev/Rakhmonberdiev/blob/main/assets/typescript.png" alt="typescript" height="72"/><img src="https://github.com/Rakhmonberdiev/Rakhmonberdiev/blob/main/assets/angular.png" alt="angular" height="72"/>
+</div>
+
 
 
 
