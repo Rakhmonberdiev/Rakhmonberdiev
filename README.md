@@ -1,11 +1,13 @@
-[![Header](https://github.com/Rakhmonberdiev/Rakhmonberdiev/blob/main/assets/header.png)](https://jr-blog.uz/)
 
-## I'm a web developer
 
 ## Languages and tools
-
+<a target="_blank">
 <img src="https://github.com/Rakhmonberdiev/Rakhmonberdiev/blob/main/assets/csharp.png" alt="csharp" height="72"/>
+</a>
+<a target="_blank">
 <img src="https://github.com/Rakhmonberdiev/Rakhmonberdiev/blob/main/assets/typescript.png" alt="typescript" height="72"/>
+</a>
+
 
 
 # Links
