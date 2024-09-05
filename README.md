@@ -1,5 +1,17 @@
-[[!Header](https://github.com/Rakhmonberdiev/Rakhmonberdiev/blob/main/assets/header.png)](https://jr-blog.uz/)
+[![Header](https://github.com/Rakhmonberdiev/Rakhmonberdiev/blob/main/assets/header.png)](https://jr-blog.uz/)
 
+## I'm a web developer
+
+## Languages and tools
+
+<img src="https://github.com/Rakhmonberdiev/Rakhmonberdiev/blob/main/assets/csharp.png" alt="csharp" height="72"/>
+<img src="https://github.com/Rakhmonberdiev/Rakhmonberdiev/blob/main/assets/typescript.png" alt="typescript" height="72"/>
+
+
+# Links
+![instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram)
+![telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)
+![web](https://img.shields.io/badge/web%20site-090909?style=for-the-badge&logo=googlechrome)
 
 ## Hi there 👋
 
